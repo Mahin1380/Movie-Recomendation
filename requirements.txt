@@ -1,6 +1,8 @@
 tqdm
 pandas
 streamlit
-dotenv
+python-dotenv
 scikit-learn
 numpy
+requests
+pickle
