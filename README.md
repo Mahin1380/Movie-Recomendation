@@ -58,7 +58,7 @@ streamlit run app.py
 ```
 📂 movie-recommender
 │-- 📜 app.py              # Streamlit web app
-│-- 📜 model.pkl           # Pickled TF-IDF model & similarity matrix
+│-- 📜 tfidf_model.pkl           # Pickled TF-IDF model & similarity matrix
 │-- 📜 movies.csv          # Dataset from TMDb
 │-- 📜 recommender.py      # Recommendation logic
 │-- 📜 requirements.txt    # Dependencies
