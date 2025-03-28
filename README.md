@@ -72,7 +72,7 @@ The dataset is sourced from **TMDb (The Movie Database)** and includes the follo
 
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/Mahin1380/movie-recommender.git
+git clone https://github.com/Mahin1380/movie-recommender.git](https://github.com/Mahin1380/Movie-Recomendation.git
 cd movie-recommender
 ```
 
