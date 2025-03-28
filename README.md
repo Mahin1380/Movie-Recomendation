@@ -21,7 +21,7 @@ The dataset is sourced from **TMDb (The Movie Database)** and contains:
 ## Installation
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/mahin1380/movie-recommender.git
+git clone https://github.com/Mahin1380/movie-recommender.git
 cd movie-recommender
 ```
 
