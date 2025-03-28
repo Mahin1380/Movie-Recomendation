@@ -111,13 +111,14 @@ streamlit run app.py
 
 ```
 📂 movie-recommender
-│-- 📜 app.py              # Streamlit web app
+│-- 📜 .env                 # TMDB API KEY
+│-- 📜 app.py               # Streamlit web app
 │-- 📜 tfidf_model.pkl      # Pickled TF-IDF model & similarity matrix
 │-- 📜 movies.csv           # Dataset from TMDb
 │-- 📜 data_cleaning.py     # Script for cleaning movie data
 │-- 📜 get_movies.py        # Script for fetching movie data from TMDb
 │-- 📜 get_favourites.py    # Script for fetching user favorite movies from TMDb
-│-- 📜 recommender.py       # Recommendation logic
+│-- 📜 main.ipynb           # Recommendation logic
 │-- 📜 requirements.txt     # Dependencies
 │-- 📜 README.md            # Project documentation
 ```
